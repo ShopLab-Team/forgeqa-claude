@@ -1,0 +1,19 @@
+{
+  "name": "forge-qa",
+  "displayName": "ForgeQA",
+  "version": "1.0.1",
+  "description": "Create, run and fix real-browser tests for your websites with ForgeQA, from Claude chat or Claude Code.",
+  "author": {
+    "name": "shoplab",
+    "url": "https://forgeqa.io"
+  },
+  "homepage": "https://forgeqa.io",
+  "license": "Proprietary",
+  "keywords": [
+    "qa",
+    "testing",
+    "e2e",
+    "playwright",
+    "browser-tests"
+  ]
+}

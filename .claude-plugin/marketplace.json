@@ -1,0 +1,18 @@
+{
+  "name": "forge-qa",
+  "owner": {
+    "name": "shoplab"
+  },
+  "metadata": {
+    "description": "ForgeQA browser testing for Claude",
+    "version": "1.0.1"
+  },
+  "plugins": [
+    {
+      "name": "forge-qa",
+      "source": "./plugins/forge-qa",
+      "description": "Create, run and fix real-browser tests for your websites with ForgeQA, from Claude chat or Claude Code.",
+      "version": "1.0.1"
+    }
+  ]
+}

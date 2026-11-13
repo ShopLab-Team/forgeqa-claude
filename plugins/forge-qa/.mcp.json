@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "forge-qa": {
+      "type": "http",
+      "url": "https://app.forgeqa.io/mcp"
+    }
+  }
+}
